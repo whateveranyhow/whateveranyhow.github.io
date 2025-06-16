@@ -5,3 +5,6 @@
 layout: home
 author_profile: true
 ---
+About life, work, and fun.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/kbaVs9T" data-context="false" ><a href="//imgur.com/a/kbaVs9T"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
